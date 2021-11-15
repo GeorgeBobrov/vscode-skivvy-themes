@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "skivvy-themes"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# skivvy themes
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Содержит две темы:
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* skivvy Delphi - похожа на тему по умолчанию в Delphi
+* skivvy colorful - более яркая раскраска ключевых слов, некоторые цвета взяты из темы по умолчанию в Qt
+
+Также в этих темах добавлены разделительные полосы (borders) в элементах управления vscode.
+
+Создано на основе темы [Delphi Themes](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes) от Alessandro Fragnani.
 
 **Enjoy!**
