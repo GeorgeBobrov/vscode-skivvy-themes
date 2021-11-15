@@ -1,0 +1,27 @@
+{
+    "name": "skivvy-themes",
+    "displayName": "skivvy themes",
+    "description": "Based on classic Delphi theme (light)",
+    "version": "1.0",
+    "publisher": "GeorgeBobrov",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "skivvy colorful",
+                "uiTheme": "vs",
+                "path": "./themes/skivvy-colorful-color-theme.json"
+            },
+            {
+                "label": "skivvy Delphi",
+                "uiTheme": "vs",
+                "path": "./themes/skivvy-delphi-color-theme.json"
+            }
+        ]
+    }
+}
