@@ -30,5 +30,6 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 ## To publish new version to store
 * Change version in `package.json`
 * Write about the changes to the file `CHANGELOG.md`
+* `vsce login GeorgeBobrov`
 * `vsce package`
 * `vsce publish`
