@@ -1,8 +1,8 @@
 {
-	"name": "Delphi",
+	"name": "Colorful",
 	"type": "light",
 	"colors": {
-		"focusBorder": "#e3e3e3",
+		"focusBorder": "#3399ff",
 		"selection.background": "#3399ff",
 		"input.foreground": "#000000",
 		"input.border": "#7a7a7a",
@@ -39,7 +39,7 @@
 		"activityBar.border": "#c7c7c7",
 		"panel.border": "#7a7a7a",
 		"activityBar.activeBackground": "#ebe6d3",   
-		"activityBar.activeBorder": "#26a04b",
+		"activityBar.activeBorder": "#3399ff",
 		"titleBar.border": "#33333399",
 		"tab.activeBorderTop": "#7a7a7a",
 		"tab.activeBackground": "#ffffff",
@@ -171,7 +171,8 @@
 				"meta.definition.function",
 				"entity.name.function.definition",
 				"entity.name.function.python",
-				"entity.name.function.declaration.kotlin"
+				"entity.name.function.kotlin",
+				"meta.method.identifier.java"
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -182,7 +183,9 @@
 			"scope": [
 				"entity.name.type",
 				"entity.other.inherited-class",
-				"support.class"
+				"support.class",
+				"storage.type.java",
+				"storage.type.generic.java"
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -501,6 +504,13 @@
 				"background": "#DDFFDD",
 				"foreground": "#434343"
 			}
-		}
+		},
+		{
+			"name": "JSON Key",
+			"scope": "support.type.property-name",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
 	]
 }

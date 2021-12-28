@@ -11,3 +11,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.1]
 
 - Screenshots added
+
+## [1.1.0]
+
+- Настройки для правильной подсветки Java и Kotlin
+- Более светлый основной синий цвет для ключевых слов
+- Синий цвет для выделения включенныx кнопок в диалогах Поск/Замена в vscode
+- Другой скриншот меньшего размера

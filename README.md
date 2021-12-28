@@ -6,9 +6,7 @@
 
 ![](./skivvy-theme-Delphi.png "Скриншот skivvy-theme-Delphi")
 
-* skivvy colorful - более яркая раскраска ключевых слов, некоторые цвета взяты из темы по умолчанию в Qt:
-
-![](./skivvy-theme-colorful.png "Скриншот skivvy-theme-colorful")
+* skivvy colorful - более яркая раскраска ключевых слов, больше подходит для других языков, например JavaScript.
 
 Также в этих темах добавлены разделительные полосы (borders) в элементах управления vscode.
 
