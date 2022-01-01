@@ -2,8 +2,9 @@
 	"name": "Colorful",
 	"type": "light",
 	"colors": {
-		"focusBorder": "#3399ff",
-		"selection.background": "#3399ff",
+		"focusBorder": "#8bbef1",
+		"inputOption.activeBorder": "#3399ff",
+		"selection.background": "#89c4ff",
 		"input.foreground": "#000000",
 		"input.border": "#7a7a7a",
 		"list.focusBackground": "#3299FF",
@@ -115,7 +116,8 @@
 			"name": "Keywords",
 			"scope": [
 				"keyword",
-				"storage"
+				"storage",
+				"storage.type.function.js"
 			],
 			"settings": {
 				"foreground": "#0000ff",
@@ -509,6 +511,14 @@
 			"name": "JSON Key",
 			"scope": "support.type.property-name",
 			"settings": {
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Java annotations",
+			"scope": "storage.type.annotation.java",
+			"settings": {
+				"foreground": "#808000",
 				"fontStyle": ""
 			}
 		},
