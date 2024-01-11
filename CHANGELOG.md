@@ -24,3 +24,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Добавлена обводка включенныx кнопок в диалогах Поск/Замена
 - Более светлый пурпурный цвет для классов
 - Настройки для подсветки аннотаций Java и Kotlin
+
+## [1.2.1]
+
+- New HTML tags and attributes coloring
+- Changed activityBar.activeBackground to white
